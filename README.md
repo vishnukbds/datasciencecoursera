@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science training by courser
+Data Science training by coursera
